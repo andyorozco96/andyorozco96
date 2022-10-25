@@ -1,4 +1,4 @@
-<h1 align="center">Andrés Orozco | Full-stack web developer ⌨ from ARG 💙🤍💙 </h1>
+<h1 align="center">Andrés Orozco | Full-stack web developer ⌨ from Argentina 💙🤍💙 </h1>
 <h3 align="center">After working for more than 4 years in the Graphic Design industry, I became interested in web development after doing a volunteer exchange in which I fulfilled the role of Web Designer. After finishing my intensive Bootcamp to become a Full-Stack web developer, I am able to leverage my knowledge in these areas to offer a comprehensive and professional solution to the market.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyorozco96&label=Profile%20views&color=0e75b6&style=flat" alt="andyorozco96" /> </p>
