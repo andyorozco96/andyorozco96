@@ -39,9 +39,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/orozcoandres1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orozcoandres1" height="30" width="40" /></a>
-/* <a href="https://linkedin.com/in/orozco-andres-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orozco-andres-dev" height="30" width="40" /></a>*/
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="orozco-andres-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/orozco-andres-dev?trk=profile-badge">Andrés Orozco</a></div>
-              
+<a href="https://linkedin.com/in/orozco-andres-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orozco-andres-dev" height="30" width="40" /></a>
 <a href="https://instagram.com/andy.orozc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andy.orozc_" height="30" width="40" /></a>
 </p>
 
