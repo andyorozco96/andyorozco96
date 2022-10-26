@@ -49,7 +49,7 @@
 
 <h3 align="left">Github stats:</h3>
 <div align="center">
-  <div style="display: flex;">
+  <div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyorozco96&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
 <img src="https://github-readme-stats.vercel.app/api?username=andyorozco96&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
