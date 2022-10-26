@@ -48,9 +48,10 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andyorozco96&show_icons=true&locale=en" alt="andyorozco96" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andyorozco96&" alt="andyorozco96" /></p>
-
-
+<div align="center">
+  <div style="display: flex;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyorozco96&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+<img src="https://github-readme-stats.vercel.app/api?username=andyorozco96&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
 
