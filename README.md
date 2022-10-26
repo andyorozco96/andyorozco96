@@ -1,8 +1,8 @@
 ![Negro Morado Blanco Tipografía Negrilla Arte Negocio Banner del Día del Orgullo LGBTIQ (1)](https://user-images.githubusercontent.com/88695441/197942074-a38d59f0-521a-41b0-bddd-8264f5bbfe9b.png)
 
 
-<h2 align="center">Andrés Orozco | Full-stack web developer ⌨ from Argentina 💙🤍💙 </h2>
-<h3 align="center">After working for more than 4 years in the Graphic Design industry, I became interested in web development after doing a volunteer exchange in which I fulfilled the role of Web Designer. After finishing my intensive Bootcamp to become a Full-Stack web developer, I am able to leverage my knowledge in these areas to offer a comprehensive and professional solution to the market.</h3>
+<h3 align="center"> About-me ⌨ </h3>
+<h4 align="center">After working for more than 4 years in the Graphic Design industry, I became interested in web development after doing a volunteer exchange in which I fulfilled the role of Web Designer. After finishing my intensive Bootcamp to become a Full-Stack web developer, I am able to leverage my knowledge in these areas to offer a comprehensive and professional solution to the market.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyorozco96&label=Profile%20views&color=0e75b6&style=flat" alt="andyorozco96" /> </p>
 
@@ -39,3 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andyorozco96&show_icons=true&locale=en" alt="andyorozco96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andyorozco96&" alt="andyorozco96" /></p>
+
+
+If my profile results interesting to you, please contact me! I'll be happy to talk with you
+<button link='https://www.linkedin.com/in/orozco-andres-dev/'>Linkedin profile</button> or <button link='https://walink.co/39f6e8'> WhatsApp </button>
