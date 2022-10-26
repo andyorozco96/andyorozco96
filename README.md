@@ -6,14 +6,17 @@
 
 <h4 align="center">If my profile results interesting to you, please contact me! I'll be happy to talk with you</h4>
 <p align="center"> Contact me via Linkedin, by Whatsapp message or by email </p>
- 
+
+ <div align="center">
+<div style="display: flex;"> 
 <a href="https://www.linkedin.com/in/orozco-andres-dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Link to Linkedin Profile" height="40" width="40" /></a> 
 
-<div align="center">
-<div style="display: flex;"> 
+
 <a href="https://walink.co/39f6e8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" alt="Link to Linkedin Profile" height="40" width="40" /></a>
 
 <a href="mailto:orozco.andres.dev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Link to Linkedin Profile" height="40" width="40" /></a>
+ </div>
+</div>
 
 
 
@@ -21,7 +24,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyorozco96" alt="andyorozco96" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/orozcoandres1" target="blank"><img src="https://img.shields.io/twitter/follow/orozcoandres1?logo=twitter&style=for-the-badge" alt="orozcoandres1" /></a> </p> </div></div>
+<p align="left"> <a href="https://twitter.com/orozcoandres1" target="blank"><img src="https://img.shields.io/twitter/follow/orozcoandres1?logo=twitter&style=for-the-badge" alt="orozcoandres1" /></a> </p> 
 
 - ✅ My most recent completed project is [Moviefy+](https://hpfc.netlify.app/)
 
