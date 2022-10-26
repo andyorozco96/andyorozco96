@@ -41,5 +41,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andyorozco96&" alt="andyorozco96" /></p>
 
 
-If my profile results interesting to you, please contact me! I'll be happy to talk with you
-<button link='https://www.linkedin.com/in/orozco-andres-dev/'>Linkedin profile</button> or <button link='https://walink.co/39f6e8'> WhatsApp </button>
+<h3>If my profile results interesting to you, please contact me! I'll be happy to talk with you</h3>
+ 
+<a href="https://www.linkedin.com/in/orozco-andres-dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Link to Linkedin Profile" height="30" width="40" /></a> 
