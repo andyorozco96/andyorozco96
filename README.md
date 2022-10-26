@@ -1,3 +1,6 @@
+![Negro Morado Blanco Tipografía Negrilla Arte Negocio Banner del Día del Orgullo LGBTIQ (1)](https://user-images.githubusercontent.com/88695441/197942074-a38d59f0-521a-41b0-bddd-8264f5bbfe9b.png)
+
+
 <h2 align="center">Andrés Orozco | Full-stack web developer ⌨ from Argentina 💙🤍💙 </h2>
 <h3 align="center">After working for more than 4 years in the Graphic Design industry, I became interested in web development after doing a volunteer exchange in which I fulfilled the role of Web Designer. After finishing my intensive Bootcamp to become a Full-Stack web developer, I am able to leverage my knowledge in these areas to offer a comprehensive and professional solution to the market.</h3>
 
