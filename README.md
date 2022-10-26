@@ -2,16 +2,21 @@
 
 
 <h3 align="center"> About-me ⌨ </h3>
-<h5 align="center">After working for more than 4 years in the Graphic Design industry, I became interested in web development after doing a volunteer exchange in which I fulfilled the role of Web Designer. After finishing my intensive Bootcamp to become a Full-Stack web developer, I am able to leverage my knowledge in these areas to offer a comprehensive and professional solution to the market.</h5>
+<p align="center">After working for more than 4 years in the Graphic Design industry, I became interested in web development after doing a volunteer exchange in which I fulfilled the role of Web Designer. After finishing my intensive Bootcamp to become a Full-Stack web developer, I am able to leverage my knowledge in these areas to offer a comprehensive and professional solution to the market.</p>
 
-<h4 align="center">If my profile results interesting to you, please contact me! I'll be happy to talk with you</h4>
-<p align="center"> Contact me via Linkedin, by Whatsapp message or by email </p>
+<h3 align="center">If my profile results interesting to you, please contact me! I'll be happy to talk with you</h3>
+
+<h4 align="center"> Contact me via Linkedin, by Whatsapp message or by email </h4>
 
 
 <p align="center">
+  ◽
 <a style="width: min-content;" href="https://www.linkedin.com/in/orozco-andres-dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Link to Linkedin Profile" height="40" width="40" /></a> 
+ ◽
 <a style="width: min-content;" href="https://walink.co/39f6e8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" alt="Link to Linkedin Profile" height="40" width="40" /></a>
+ ◽
 <a style="width: min-content;" href="mailto:orozco.andres.dev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Link to Linkedin Profile" height="40" width="40" /></a>
+  ◽
 </p>
 
 
