@@ -27,6 +27,8 @@
 
 <p align="left"> <a href="https://twitter.com/orozcoandres1" target="blank"><img src="https://img.shields.io/twitter/follow/orozcoandres1?logo=twitter&style=for-the-badge" alt="orozcoandres1" /></a> </p> 
 
+<div> <h3> 👇 Here is my portfolio's link updated</h3> <a href="https://portfolio-orozco-andres.netlify.app/"  target="blank"> https://portfolio-orozco-andres.netlify.app/ </a> <br/></div>
+
 - ✅ My most recent completed project is [Moviefy+](https://hpfc.netlify.app/)
 
 - 🌱 I’m currently learning **MongoDB and TypeScript**
